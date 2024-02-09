@@ -19,7 +19,7 @@ const Cart = () => {
     let userEmail = localStorage.getItem("userEmail");
 
     let response = await fetch(
-      "https://dfseser.onrender.com/api/orderData",
+      "https://fxdfsxf.onrender.com/api/orderData",
       {
         mode: "cors",
         method: "POST",
