@@ -11,7 +11,7 @@ const SignUp = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     const response = await fetch(
-      "https://dfseser.onrender.com/api/createuser",
+      "https://fxdfsxf.onrender.com/api/createuser",
       {
         mode: "cors",
         method: "POST",
