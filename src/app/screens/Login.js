@@ -10,7 +10,7 @@ const Login = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     const response = await fetch(
-      "https://ydftydwfty.onrender.com/api/loginuser",
+      "https://dfseser.onrender.com/api/loginuser",
       {
         mode: "cors",
         method: "POST",
