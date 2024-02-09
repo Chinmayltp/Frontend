@@ -6,7 +6,7 @@ export default function MyOrder() {
   const [orderData, setorderData] = useState({});
 
   const fetchMyOrder = async () => {
-    await fetch("https://dfseser.onrender.com/api/myOrderData", {
+    await fetch("https://fxdfsxf.onrender.com/api/myOrderData", {
       mode: "cors",
       method: "POST",
       headers: {
